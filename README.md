@@ -1,3 +1,3 @@
 # Data Structures and Algorithms.
-## Done and dusted for practise 
+## keeping up the practice 
 ## Implemented with JavaScript
